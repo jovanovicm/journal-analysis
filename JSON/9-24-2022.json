@@ -1,0 +1,42 @@
+{
+    "Date": "9/24/2022",
+    "WakePeriods": [
+        {
+            "WakeTime": "08:30",
+            "SleepTime": "13:30",
+            "Activities": [
+                {
+                    "Name": "wake up/sleep/phone",
+                    "StartTime": "08:30",
+                    "TotalDuration": "02:15:00",
+                    "Description": null
+                },
+                {
+                    "Name": "mama/dan",
+                    "StartTime": "10:45",
+                    "TotalDuration": "09:45:00",
+                    "Description": null
+                },
+                {
+                    "Name": "luka/chill",
+                    "StartTime": "20:30",
+                    "TotalDuration": "01:00:00",
+                    "Description": null
+                },
+                {
+                    "Name": "luka/jackson/dentists",
+                    "StartTime": "21:30",
+                    "TotalDuration": "16:00:00",
+                    "Description": null
+                },
+                {
+                    "Name": "home",
+                    "StartTime": "13:30",
+                    "TotalDuration": "00:00:00",
+                    "Description": null
+                }
+            ]
+        }
+    ],
+    "Rating": 8
+}

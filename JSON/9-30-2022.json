@@ -1,0 +1,60 @@
+{
+    "Date": "9/30/2022",
+    "WakePeriods": [
+        {
+            "WakeTime": "10:30",
+            "SleepTime": "22:30",
+            "Activities": [
+                {
+                    "Name": "wake up/phone",
+                    "StartTime": "10:30",
+                    "TotalDuration": "01:00:00",
+                    "Description": null
+                },
+                {
+                    "Name": "dishes",
+                    "StartTime": "11:30",
+                    "TotalDuration": "00:30:00",
+                    "Description": null
+                },
+                {
+                    "Name": "bed/thinking",
+                    "StartTime": "12:00",
+                    "TotalDuration": "01:00:00",
+                    "Description": null
+                },
+                {
+                    "Name": "walk",
+                    "StartTime": "13:00",
+                    "TotalDuration": "03:45:00",
+                    "Description": null
+                },
+                {
+                    "Name": "home/computer/luka parents",
+                    "StartTime": "16:45",
+                    "TotalDuration": "01:15:00",
+                    "Description": null
+                },
+                {
+                    "Name": "luka/get ready",
+                    "StartTime": "18:00",
+                    "TotalDuration": "00:30:00",
+                    "Description": null
+                },
+                {
+                    "Name": "tfc game",
+                    "StartTime": "18:30",
+                    "TotalDuration": "04:00:00",
+                    "Description": null
+                },
+                {
+                    "Name": "home/bed",
+                    "StartTime": "22:30",
+                    "TotalDuration": "00:00:00",
+                    "Description": null
+                }
+            ]
+        }
+    ],
+    "Rating": 8
+}

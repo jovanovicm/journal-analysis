@@ -1,0 +1,53 @@
+{
+    "Date": "5/7/2022",
+    "WakePeriods": [
+        {
+            "WakeTime": "06:00",
+            "SleepTime": "12:30",
+            "Activities": [
+                {
+                    "Name": "wake up/get ready",
+                    "StartTime": "06:00",
+                    "TotalDuration": "00:35:00",
+                    "Description": null
+                },
+                {
+                    "Name": "tata",
+                    "StartTime": "06:35",
+                    "TotalDuration": "01:05:00",
+                    "Description": null
+                },
+                {
+                    "Name": "train",
+                    "StartTime": "07:40",
+                    "TotalDuration": "05:50:00",
+                    "Description": null
+                },
+                {
+                    "Name": "walking",
+                    "StartTime": "13:30",
+                    "TotalDuration": "00:30:00",
+                    "Description": null
+                },
+                {
+                    "Name": "moving in",
+                    "StartTime": "14:00",
+                    "TotalDuration": "05:30:00",
+                    "Description": null
+                },
+                {
+                    "Name": "break/moving in",
+                    "StartTime": "19:30",
+                    "TotalDuration": "02:00:00",
+                    "Description": null
+                },
+                {
+                    "Name": "luka",
+                    "StartTime": "21:30",
+                    "TotalDuration": "15:00:00",
+                    "Description": null
+                }
+            ]
+        }
+    ]
+}

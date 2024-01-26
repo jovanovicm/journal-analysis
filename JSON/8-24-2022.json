@@ -1,0 +1,54 @@
+{
+    "Date": "8/24/2022",
+    "WakePeriods": [
+        {
+            "WakeTime": "04:45",
+            "SleepTime": "12:00",
+            "Activities": [
+                {
+                    "Name": "wake up/get ready",
+                    "StartTime": "04:45",
+                    "TotalDuration": "00:25:00",
+                    "Description": null
+                },
+                {
+                    "Name": "train station/tata/iliana",
+                    "StartTime": "05:10",
+                    "TotalDuration": "00:25:00",
+                    "Description": null
+                },
+                {
+                    "Name": "train/sleep",
+                    "StartTime": "05:35",
+                    "TotalDuration": "05:00:00",
+                    "Description": null
+                },
+                {
+                    "Name": "home/union",
+                    "StartTime": "10:35",
+                    "TotalDuration": "00:55:00",
+                    "Description": null
+                },
+                {
+                    "Name": "ramen",
+                    "StartTime": "11:30",
+                    "TotalDuration": "01:00:00",
+                    "Description": null
+                },
+                {
+                    "Name": "home/avanade/luka",
+                    "StartTime": "12:30",
+                    "TotalDuration": "05:30:00",
+                    "Description": null
+                },
+                {
+                    "Name": "adrian/luka",
+                    "StartTime": "18:00",
+                    "TotalDuration": "18:00:00",
+                    "Description": null
+                }
+            ]
+        }
+    ],
+    "Rating": 8
+}

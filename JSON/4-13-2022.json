@@ -1,0 +1,72 @@
+{
+    "Date": "4/13/2022",
+    "WakePeriods": [
+        {
+            "WakeTime": "04:30",
+            "SleepTime": "23:00",
+            "Activities": [
+                {
+                    "Name": "train to toronto",
+                    "StartTime": "05:00",
+                    "TotalDuration": "05:10:00",
+                    "Description": null
+                },
+                {
+                    "Name": "walk to building",
+                    "StartTime": "10:10",
+                    "TotalDuration": "00:50:00",
+                    "Description": null
+                },
+                {
+                    "Name": "viewing",
+                    "StartTime": "11:00",
+                    "TotalDuration": "00:30:00",
+                    "Description": null
+                },
+                {
+                    "Name": "churros",
+                    "StartTime": "11:30",
+                    "TotalDuration": "01:00:00",
+                    "Description": null
+                },
+                {
+                    "Name": "viewing 2",
+                    "StartTime": "12:30",
+                    "TotalDuration": "01:30:00",
+                    "Description": null
+                },
+                {
+                    "Name": "ramen",
+                    "StartTime": "14:00",
+                    "TotalDuration": "00:40:00",
+                    "Description": null
+                },
+                {
+                    "Name": "museum ROM",
+                    "StartTime": "14:40",
+                    "TotalDuration": "02:00:00",
+                    "Description": null
+                },
+                {
+                    "Name": "back to union/train to windsor",
+                    "StartTime": "16:40",
+                    "TotalDuration": "05:15:00",
+                    "Description": null
+                },
+                {
+                    "Name": "ride home",
+                    "StartTime": "21:55",
+                    "TotalDuration": "00:25:00",
+                    "Description": null
+                },
+                {
+                    "Name": "phone",
+                    "StartTime": "22:20",
+                    "TotalDuration": "00:40:00",
+                    "Description": null
+                }
+            ]
+        }
+    ],
+    "Rating": 9
+}

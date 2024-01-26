@@ -1,0 +1,42 @@
+{
+    "Date": "10/29/2022",
+    "WakePeriods": [
+        {
+            "WakeTime": "10:00",
+            "SleepTime": "15:00",
+            "Activities": [
+                {
+                    "Name": "wake up/phone/chess",
+                    "StartTime": "10:00",
+                    "TotalDuration": "06:00:00",
+                    "Description": null
+                },
+                {
+                    "Name": "dollarama/canadian tire/chess/costume prep",
+                    "StartTime": "16:00",
+                    "TotalDuration": "03:45:00",
+                    "Description": null
+                },
+                {
+                    "Name": "adrian/luka",
+                    "StartTime": "19:45",
+                    "TotalDuration": "18:45:00",
+                    "Description": null
+                },
+                {
+                    "Name": "mcdonalds",
+                    "StartTime": "14:30",
+                    "TotalDuration": "00:30:00",
+                    "Description": null
+                },
+                {
+                    "Name": "home/bed",
+                    "StartTime": "15:00",
+                    "TotalDuration": "00:00:00",
+                    "Description": null
+                }
+            ]
+        }
+    ],
+    "Rating": 9
+}
