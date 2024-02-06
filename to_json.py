@@ -152,8 +152,9 @@ def parse_journal_entry_with_final_assumptions(entry):
 
     return data
 
-md_folder = 'Markdown'
-json_folder = 'JSON' 
+
+md_folder = 'Markdown'  
+json_folder = 'JSON'  
 process_markdown_folder(md_folder, json_folder)
 
 
